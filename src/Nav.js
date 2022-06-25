@@ -18,7 +18,7 @@ export default function Nav() {
       <img
         className="nav__logo"
         //  src="https://upload.wikimedia.org/wikipedia/common/0/0f"
-        src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRF6-cXZHF9zeyx0mlcYdXCGm9WJs4dDDZclA&usqp=CAU"
+         src="https://www.edigitalagency.com.au/wp-content/uploads/Netflix-logo-red-black-png.png"
         alt="netflix-log"
       />
       <img
